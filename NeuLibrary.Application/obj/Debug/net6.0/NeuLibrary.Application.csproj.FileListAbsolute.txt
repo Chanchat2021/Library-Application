@@ -1,0 +1,17 @@
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Application.deps.json
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Application.dll
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Application.pdb
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Domain.dll
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\bin\Debug\net6.0\NeuLibrary.Domain.pdb
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.csproj.AssemblyReference.cache
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.AssemblyInfoInputs.cache
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.AssemblyInfo.cs
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.csproj.CoreCompileInputs.cache
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.csproj.CopyComplete
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.dll
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\refint\NeuLibrary.Application.dll
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\NeuLibrary.Application.pdb
+C:\Users\Chandan.Chatterjee\Desktop\NeuLibraryPEP\NeuLibrary\NeuLibrary.Application\obj\Debug\net6.0\ref\NeuLibrary.Application.dll
